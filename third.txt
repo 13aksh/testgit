@@ -1,2 +1,0 @@
-This is the Third file for git. Now modified it.
-Modified it further.
